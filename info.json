@@ -1,7 +1,6 @@
 {
     "name": "CredManBOF",
     "version": "0.0.1",
-    "uuid": "c3d4e5f6-a7b8-4901-2345-cdef78901234",
     "command": "credman",
     "type": "bof",
     "repository": "https://github.com/nukeratarmory/CredManBOF",
